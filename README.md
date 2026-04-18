@@ -7,12 +7,12 @@ This project implements transfer learning using ResNet50 for brain tumor classif
 Brain MRI Dataset: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 # Steps 
-Data preprocessing and augmentation
-Model training using ResNet50
-Fine-tuning
-Evaluation with metrics
+1 Data preprocessing and augmentation
+2 Model training using ResNet50
+3 Fine-tuning
+4 Evaluation with metrics
 
 # Tools Used
-TensorFlow
-Keras
-Google Colab
+1 TensorFlow
+2 Keras
+3 Google Colab
